@@ -13,3 +13,14 @@ button {
   border: none;
   border-radius: 6px;
 }
+
+iframe {
+  width: 70%;
+  height: 456px;
+}
+
+hr {
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+  height: 4px;
+}
