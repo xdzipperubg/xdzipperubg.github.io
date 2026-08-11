@@ -1,0 +1,15 @@
+body {
+  background-color: #115599;
+  text-align: center;
+}
+  
+h1, h2, h3, h4, h5, a, p {
+  font-family: Verdana;
+  color: #FFFFFF;
+}
+
+button {
+  background-color: #1177ff;
+  border: none;
+  border-radius: 6px;
+}
