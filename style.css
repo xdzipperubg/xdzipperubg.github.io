@@ -1,12 +1,14 @@
-/* Added comment here to commit ts */
+/* DO NOT REMOVE THIS COMMENT -XDZIPPER */
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
 body {
-  background-color: #115599;
+  background-color: #200b9f;
   text-align: center;
 }
   
 h1, h2, h3, h4, h5, a, p {
-  font-family: Verdana;
+  font-family: Lexend;
   color: #FFFFFF;
 }
 
@@ -19,6 +21,8 @@ button {
 iframe {
   width: 70%;
   height: 456px;
+  border: none;
+  border-radius: 6px;
 }
 
 hr {
